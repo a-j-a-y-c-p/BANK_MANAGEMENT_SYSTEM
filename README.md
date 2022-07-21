@@ -7,7 +7,7 @@ create a project in QT creater with name System.
 copy all these files at QT\System.
 Build and run the program.
 
-*NOTE : CURRENTLY IT IS ONLY FRONT END PROJECT.DATABASE WILL BE ADDED IN FUTURE.
+*NOTE : CURRENTLY IT IS ONLY FRONT END PROJECT. DATABASE WILL BE ADDED IN FUTURE.
 
 ADMIN PORTAL CREDENTIALS : 
                 username : admin
